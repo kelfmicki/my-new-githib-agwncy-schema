@@ -6,3 +6,5 @@ Currently, two official extensions are available:
 @arrow-dplyr/procedural uses ME for Fast Processing
 
 @arrow-dplyr/DT_editor_shiny_module uses Shiny for Interactive Tables
+
+# PR Merge: 2025-11-20 14:18:12
